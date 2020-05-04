@@ -18,8 +18,5 @@ And here, is the QRCode:
 
 __*Remember to play the game PORTRAIT!!*__
 
-<<<<<<< HEAD
+
 __Good luck! Enjoy!__
-=======
-__Good luck! Enjoy!__
->>>>>>> 5c23b7deec14d5833610d56e38419358e67bdeb2
