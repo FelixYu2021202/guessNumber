@@ -1,11 +1,8 @@
 # Guess Number
 
-This is an guess number game
+This is an guess number game:
 
-There's the website:
-
-[game](https://yufeixian.github.io/guessNumber/)
-
+[The game](https://yufeixian.github.io/guessNumber/)
 
 
 And here, is the QRCode:
