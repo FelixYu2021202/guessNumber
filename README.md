@@ -12,7 +12,7 @@ And here, is the QRCode:
 
 There's some picture for the game:
 
-  <!-- 1. start:
+  1. start:
   ![](https://yufeixian.github.io/guessNumber/img/start.png)
 
   2. game started: \(click the 'start!' label\)
@@ -22,7 +22,7 @@ There's some picture for the game:
   ![](https://yufeixian.github.io/guessNumber/img/rule.png)
 
   4. records: when you *win* __*every time*__, we'll record your score and you can see your scores by clicking the 'records' label
-  ![](https://yufeixian.github.io/guessNumber/img/records.png) -->
+  ![](https://yufeixian.github.io/guessNumber/img/records.png)
 
 
 
