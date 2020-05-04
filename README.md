@@ -15,7 +15,7 @@ There's some picture for the game:
   1. start:
   ![](https://yufeixian.github.io/guessNumber/img/start.png)
 
-  2. game started: \(click the 'start!' label\)
+  2. game started: \(click the 'START!' label\)
   ![](https://yufeixian.github.io/guessNumber/img/playing.png)
 
   3. rule: \(click the 'rules' label\)
