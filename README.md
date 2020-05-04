@@ -13,9 +13,9 @@ And here, is the QRCode:
 *QR Code*
 ![](https://yufeixian.github.io/guessNumber/img/QRCode.png)
 
+There's some picture for the game:
 
-*And the last thing:*
+  1. start:
 
-__*Remember to play the game PORTRAIT!!*__
 
 __Good luck! Enjoy!__
