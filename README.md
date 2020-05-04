@@ -1,6 +1,6 @@
 # Guess Number
 
-This is an original guess number game
+This is an guess number game
 
 There's the website:
 
